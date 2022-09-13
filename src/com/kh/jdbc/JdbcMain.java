@@ -1,9 +1,10 @@
 package com.kh.jdbc;
-
 import com.kh.jdbc.dao.EmpDAO;
 import com.kh.jdbc.vo.EmpVO;
 import java.util.List;
 import java.util.Scanner;
+
+// github 테스트 중
 
 public class JdbcMain {
     public static void main(String[] args) {
