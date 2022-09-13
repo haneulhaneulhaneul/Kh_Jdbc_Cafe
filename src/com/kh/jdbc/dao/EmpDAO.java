@@ -1,7 +1,6 @@
 package com.kh.jdbc.dao;
 import com.kh.jdbc.util.Common;
 import com.kh.jdbc.vo.EmpVO;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -156,27 +155,3 @@ public class EmpDAO {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
