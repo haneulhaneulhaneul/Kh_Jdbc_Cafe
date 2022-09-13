@@ -1,4 +1,5 @@
 package com.kh.jdbc.vo;
+
 import java.sql.Date;
 
 // EMP Table 에 대한 VO
